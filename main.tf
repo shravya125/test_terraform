@@ -29,7 +29,7 @@ resource "azurerm_virtual_network" "app1" {
 //department  = "sales"
 //team        = "intergrations"
 //}
-//}
+
 
 resource "azurerm_virtual_network" "vnet1" {
   name                = "vnet1"
