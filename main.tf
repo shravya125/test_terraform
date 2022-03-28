@@ -26,7 +26,7 @@ resource "azurerm_virtual_network" "app1" {
 
 //tags = {
 //environment = "Production"
-//department  = "sales"
+//department  = "health"
 //team        = "intergrations"
 //}
 
